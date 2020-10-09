@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>quantity</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-09 12:25:31</sys_created_on>
+        <sys_data_policy display_value="Sets the Quantity field to mandatory">16ccd2b02f335010579e57892799b6cd</sys_data_policy>
+        <sys_id>1accd2b02f335010579e57892799b6cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>quantity</sys_name>
+        <sys_package display_value="Shopping List" source="x_541311_shopping">a3bb16702f335010579e57892799b6ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">a3bb16702f335010579e57892799b6ed</sys_scope>
+        <sys_update_name>sys_data_policy_rule_1accd2b02f335010579e57892799b6cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-09 12:25:31</sys_updated_on>
+        <table>x_541311_shopping_shopping_item</table>
+    </sys_data_policy_rule>
+</record_update>
